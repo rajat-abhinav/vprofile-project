@@ -1,6 +1,6 @@
 # Prerequisites
-#
-- JDK 11 
+# This is to check the tagging and other option in GIT Commit.
+- JDK 21 
 - Maven 3 
 - MySQL 8
 
