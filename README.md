@@ -1,5 +1,6 @@
 # Prerequisites
 # This is to check the tagging and other option in GIT Commit.
+# This is the seccond tagging test. for Version 1.2.2
 - JDK 21 
 - Maven 3 
 - MySQL 8
